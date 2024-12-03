@@ -1,0 +1,107 @@
+prompt,output,timestamp
+"semester fee?
+","Hi there! I was created by Team REMOTE_CODER at USTC. 
+
+Let's answer your questions about getting admission to the CSE program at USTC:
+
+**When can I get admission to USTC CSE?**
+
+USTC offers admissions twice a year - in **January** and **July**. The application process usually involves an entrance test.  You can find more details on the official website: https://ustc.ac.bd/ 
+
+**What are the Semester Fees?**
+The semester fees for the CSE program at USTC is **BDT 53,000 per semester.**
+
+
+**When do admissions open?**
+
+Admissions generally open in **January** and **July**, check the official website for exact dates and deadlines.
+
+I hope this helps! Let me know if you have any other questions about USTC CSE.  
+",2024-11-29 01:21:05.010526
+What is ustc?,"Hi there! 👋  How can I help you today about the USTC CSE Department? 🙂 
+",2024-11-30 20:43:12.521864
+"can you write a c code?
+clear the output","Hi! 😊 
+
+Let's break down your questions:
+
+**1. Semester Fee:**  The semester fee for the CSE program at USTC is **57,000 BDT.**
+
+**2. Dean of the University:** The Dean of FSET (Faculty of Science and Technology) is **Dr. Hadaayet Ullah.** His email is `hadaate@ustc.ac.bd`. 
+
+**3. C Code Example:**  
+ ```c
+ #include <stdio.h>
+
+ int main() {
+     printf(""Hello, World!\n"");
+     return 0;
+ }
+ ```
+
+ **Explanation:**
+
+* **#include <stdio.h>**: This line incorporates the standard input/output library which provides tools for working with text and outputting data to the console (e.g., printing). 
+* **int main() { ... }**:  This is the main function, the starting point of every C program. The code inside this block will be executed.
+* **printf(""Hello, World!\n"");**: This line prints ""Hello, World!"" to the console followed by a newline character (`\n`).
+* **return 0;**: This indicates that the program has executed successfully.
+
+Let me know if you'd like help understanding any part of this code! 
+
+
+**Additional Notes:**  I'm still under development, but I can do a lot to help with questions about USTC and coding in general. 😄  
+",2024-11-30 23:27:08.592255
+"can you write a c code?
+clear the output","Let's address each of your questions: 
+
+**1. Semester Fee:** The semester fee for the CSE program at USTC is **57,000 BDT.** 
+
+
+**2. Dean of the University:**  The current Dean of FSET (Faculty of Science and Technology) is **Dr. Hadaayet Ullah**.  His email is **hadaate@ustc.ac.bd**
+
+
+**3. C Code Example**
+
+```c
+#include <stdio.h> 
+
+int main() {
+    printf(""Hello, world!\n""); // This prints ""Hello, world!"" to the console
+    return 0;  
+}
+```
+
+**Explanation:**
+
+* **#include <stdio.h>:** This line includes a standard input/output library that provides functions for handling input and output operations, like printing to the screen (`printf`).
+* **int main():**  This is the `main` function, which is the entry point of every C program.  The code within this block is executed when the program runs.
+* **printf(""Hello, world!\n"");:** This line uses `printf` to print the text ""Hello, world!"" followed by a newline character (`\n`) to move the cursor to the next line on the screen. 
+* **return 0;**: This indicates that the program executed successfully.  A return value of 0 from `main()` is a signal that there were no errors during execution.
+
+**To run this code:**
+
+1. Save it as a `.c` file (e.g., `hello_world.c`).
+2. Compile it using a C compiler like GCC: `gcc hello_world.c -o hello_world`
+3. Run the compiled executable: `./hello_world`
+
+
+
+**How to Get Help with Code:**
+
+* **Ask me for specific coding help!**: Feel free to ask for help with more complex code examples, error-checking, algorithms, or general C concepts. 
+
+
+Let me know if you have any other questions! 😊 
+",2024-11-30 23:29:19.796622
+Who  is the Dean of FSET and who is the head of dept in cse?,"Hi there! I'm ustc_cse_dept, a chatbot created by TEAM-REMOTE_CODER to help you learn about the CSE department at University of Science & Technology Chittagong (USTC).  
+
+**Here are the answers to your questions:**
+
+* **Semester Fee:** The semester fee for the CSE program at USTC is 57,000 BDT.
+* **Dean of FSET and Head of CSE Department:** 
+    * The Dean of FSET at USTC is Dr. Hadaayet Ullah (Email: hadaate@ustc.ac.bd)
+    * The Head of the CSE Department at USTC is Most Tahamina Khatoon  (Email: mtk@ustc.ac.bd) 
+
+
+I hope this information is helpful! If you have any other questions, feel free to ask. 😊 
+",2024-12-02 21:19:52.006312
